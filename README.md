@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Bootcamp-TripleTen-blue?style=flat-square" alt="TripleTen Badge" />
 </p>
 
-<h1 align="center">Projeto Sprint 2</h1>
+<h1 align="center">Análise de Comportamento de Usuários – Streaming de Música</h1>
 
 <p align="center">
 Notebook desenvolvido durante o Bootcamp <strong>TripleTen</strong>.
