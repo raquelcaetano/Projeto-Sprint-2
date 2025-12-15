@@ -2,33 +2,33 @@
   <img src="https://img.shields.io/badge/Bootcamp-TripleTen-blue?style=flat-square" alt="TripleTen Badge" />
 </p>
 
-<h1 align="center">Análise de Comportamento de Usuários – Streaming de Música</h1>
+<h1 align="center">User Behavior Analysis – Music Streaming</h1>
 
 <p align="center">
-Notebook desenvolvido durante o Bootcamp <strong>TripleTen</strong>.
+Notebook developed during the <strong>TripleTen</strong> Bootcamp. 
 </p>
 
 ---
 
-## 📄 Descrição
-Este notebook realiza a **avaliação** e **coleta** de dados utilizando Python e Pandas.  
-O objetivo é estudar os dados de um serviço de streaming de música online para testar a hipótese apresentada abaixo e comparar o comportamento dos usuários dessas duas cidades.
+## 📄 Description
+This notebook performs **evaluation** and **data collection** using Python and Pandas.
+The goal is to study data from an online music streaming service to test the hypothesis presented below and compare the behavior of users in these two cities.
 
 ---
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 - Python 3.11.9
 - Jupyter Notebook 
 - Pandas
 
 ---
 
-## 🚀 Como usar
-1. Abra o arquivo `Sprint2.ipynb` no **Jupyter Notebook**.
-2. Execute as células em ordem.
-3. Visualize os resultados do tratamento de dados.
+## 🚀 How to use
+1. Open the `Sprint2.ipynb` file in **Jupyter Notebook**.
+2. Run the cells in order.
+3. View the results of the data processing.
 
 ---
 
-## ⚡ Licença
-Este projeto está sob a licença **MIT**.
+## ⚡ License
+This project is licensed under the **MIT** license.
